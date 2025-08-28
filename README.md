@@ -11,9 +11,12 @@ A hard fork of the G2P training code from [OpenUTAU’s repository](https://gith
   - `torch.optim.<OptimizerName>`  
 - For learning rate schedulers, you can also use either:  
   - `torch.optim.lr_scheduler.<SchedulerName>`  
-  - `pytorch_optimizer.<SchedulerName>`  
+  - `pytorch_optimizer.<SchedulerName>`
+ 
+- For more information, check the original repo.
 
 Both optimizers and schedulers support full parameter customization through the `.yaml` file (or inside the Colab cell).
 
 > **Credits**: Based on the original OpenUTAU repository.  
+
 

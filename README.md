@@ -1,3 +1,4 @@
+<a href="https://github.com/usamireko/G2PTrainer/blob/main/G2PTrainer_Notebook.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> </a>
 # G2PTrainer
 A hard fork of the G2P training code from [OpenUTAU’s repository](https://github.com/stakira/OpenUtau/tree/master/py), extended with modifications to enable more flexible experimentation with training parameters.  
 
@@ -18,5 +19,6 @@ A hard fork of the G2P training code from [OpenUTAU’s repository](https://gith
 Both optimizers and schedulers support full parameter customization through the `.yaml` file (or inside the Colab cell).
 
 > **Credits**: Based on the original OpenUTAU repository.  
+
 
 

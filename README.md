@@ -18,7 +18,10 @@ A hard fork of the G2P training code from [OpenUTAU’s repository](https://gith
 
 Both optimizers and schedulers support full parameter customization through the `.yaml` file (or inside the Colab cell).
 
+Please refer to the official docs of both [PyTorch](https://docs.pytorch.org/docs/stable/optim.html) and [pytorch-optimizer](https://pytorch-optimizers.readthedocs.io/en/latest/)
+
 > **Credits**: Based on the original OpenUTAU repository.  
+
 
 
 

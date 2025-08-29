@@ -20,9 +20,4 @@ Both optimizers and schedulers support full parameter customization through the 
 
 Please refer to the official docs of both [PyTorch](https://docs.pytorch.org/docs/stable/optim.html) and [pytorch-optimizer](https://pytorch-optimizers.readthedocs.io/en/latest/)
 
-> **Credits**: Based on the original OpenUTAU repository.  
-
-
-
-
-
+> **Credits**: Based on the original OpenUTAU repository. Social Preview made with [Socialify](https://socialify.git.ci), Tennoji Rina´s signature used there came from [here.](https://love-live.fandom.com/wiki/Rina_Tennoji?file=Rina_Signature.png)

@@ -1,4 +1,4 @@
-<a href="https://github.com/usamireko/G2PTrainer/blob/main/G2PTrainer_Notebook.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> </a>
+<a href="https://colab.research.google.com/github/usamireko/G2PTrainer/blob/main/G2PTrainer_Notebook.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> </a>
 # G2PTrainer
 A hard fork of the G2P training code from [OpenUTAU’s repository](https://github.com/stakira/OpenUtau/tree/master/py), extended with modifications to enable more flexible experimentation with training parameters.  
 
@@ -21,3 +21,4 @@ Both optimizers and schedulers support full parameter customization through the 
 Please refer to the official docs of both [PyTorch](https://docs.pytorch.org/docs/stable/optim.html) and [pytorch-optimizer](https://pytorch-optimizers.readthedocs.io/en/latest/)
 
 > **Credits**: Based on the original OpenUTAU repository. Social Preview made with [Socialify](https://socialify.git.ci), Tennoji Rina´s signature used there came from [here.](https://love-live.fandom.com/wiki/Rina_Tennoji?file=Rina_Signature.png)
+
